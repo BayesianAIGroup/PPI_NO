@@ -14,7 +14,7 @@ For example, to run the Darcy-Flow experiment (128 resolution):
 
 ```bash
 python darcy_128_fno_reformat_co.py
-
+```
 ## Citation
 
 If you find this repository useful, please cite our paper:
@@ -27,7 +27,7 @@ If you find this repository useful, please cite our paper:
   journal = {Transactions on Machine Learning Research},
   url = {https://openreview.net/pdf?id=5N1V25Rf7D}
 }
-
+```
 
 
 
